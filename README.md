@@ -15,4 +15,9 @@
 <h2 align="left">Languages and Tools:</h2>
 <p align="left"> 
 <a href="https://unity.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/109519598/213221491-e90fe952-72ad-4de3-877c-500823a298ce.png" alt="unity" width="45" height="45"/> </a>
+
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/109519598/213226708-f63fb415-7b22-447a-ae92-ccfe0322e56d.png" alt="csharp" width="45" height="45"/> </a>
+
+<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/109519598/213227755-1b4650fe-83e9-4732-8ef8-afd71c8b7d0a.png" alt="html" width="45" height="45"/> </a>
+  
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/109519598/213228759-f1a510a8-3596-4615-a510-28d9c92d35a6.png" alt="css" width="45" height="45"/> </a>
