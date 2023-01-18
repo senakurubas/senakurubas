@@ -14,4 +14,4 @@
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="left"> 
-  <a href="https://unity.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/109519598/213160443-c888b4b4-3e84-40f2-88f5-27a8af1cbad5.png" alt="unity" width="45" height="45"/> </a>
+  <a href="https://unity.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/109519598/213221491-e90fe952-72ad-4de3-877c-500823a298ce.png" alt="unity" width="45" height="45"/> </a>
