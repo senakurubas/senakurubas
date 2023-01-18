@@ -8,7 +8,7 @@
 
 <h2 align="left">Contact me:</h2>
 <p align="left">
-<a href="mailto:senakurubas@hotmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png" alt="senakurubas" height="30" width="40" /></a>  &nbsp;  <a href="https://www.linkedin.com/in/senakurubas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="senakurubas/" height="30" width="40" /></a>
+<a href="mailto:senakurubas@hotmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/109519598/213220064-e4523368-b1de-44d8-b9ab-5b98e6f82839.png" alt="senakurubas" height="30" width="40" /></a>  &nbsp;  <a href="https://www.linkedin.com/in/senakurubas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="senakurubas/" height="30" width="40" /></a>
 </p>
 
 
