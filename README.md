@@ -20,7 +20,9 @@
 <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/109519598/213227755-1b4650fe-83e9-4732-8ef8-afd71c8b7d0a.png" alt="html" width="45" height="45"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/109519598/213228759-f1a510a8-3596-4615-a510-28d9c92d35a6.png" alt="css" width="45" height="45"/> </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/109519598/213231600-9ee7ec9e-7e40-4709-aff0-b8103ea01030.png" alt="bootstrap" width="45" height="45"/> </a>
-
+<a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/109519598/213233407-86b9f415-16f5-4db5-9785-851923b1ffad.png" alt="mysql" width="45" height="45"/> </a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/109519598/213234062-e768c0e0-dae5-4c57-866a-c0fa7d33b71d.png" alt="postgresql" width="45" height="45"/> </a>
+<a href="https://learn.microsoft.com/tr-tr/dotnet/core/introduction" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/109519598/213235133-765c166d-bb7a-459a-975a-e8a457108aac.png" alt="dotnet" width="45" height="45"/> </a>
 
 
 
