@@ -1,7 +1,8 @@
 # Hi, I'm Sena 👋
 
 - 🌱 I’m currently developing mobile games in Unity
-
+![giphy](https://user-images.githubusercontent.com/109519598/213156610-d561b5b0-3f63-40a2-801e-ed91c090794d.gif)
+<img align="right" src="https://user-images.githubusercontent.com/109519598/213156610-d561b5b0-3f63-40a2-801e-ed91c090794d.gif" alt="@senakurubas" height="300" width="300" />
 
 - 💬 Ask me about C#, Unity 3D, OOP
 
