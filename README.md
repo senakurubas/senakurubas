@@ -2,9 +2,9 @@
 <h1 align="left">Hi, I'm Sena 👋 </h1>
 
 
-<h3> - 🌱 I’m currently developing mobile games in Unity </h3>
+<h4> - 🌱 I’m currently developing mobile games in Unity </h4>
 
-- 💬 Ask me about C#, Unity 3D, OOP
+<h4> - 💬 Ask me about C#, Unity 3D, OOP </h4>
 
 <h2 align="left">Contact me:</h2>
 <p align="left">
