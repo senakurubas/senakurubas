@@ -1,10 +1,14 @@
-<img align="right" src="https://user-images.githubusercontent.com/109519598/213156610-d561b5b0-3f63-40a2-801e-ed91c090794d.gif" alt="@senakurubas" height="400" width="400" />
+<img align="right" src="https://user-images.githubusercontent.com/109519598/213253934-4cc85cf1-8c60-46b4-ad73-77d5d661ecd7.gif" alt="@senakurubas" height="400" width="400" />
 <h1 align="left">Hi, I'm Sena 👋 </h1>
 
 
 <h4> - 🌱 I’m currently developing mobile games in Unity </h4>
 
 <h4> - 💬 Ask me about C#, Unity 3D, OOP </h4>
+<img align="left" src="https://user-images.githubusercontent.com/109519598/213254121-115274ea-ed4d-49b6-a3a7-3b92f0abc023.gif" alt="@skurubas" height="50" width="150" />
+
+
+
 
 <h2 align="left">Contact me:</h2>
 <p align="left">
