@@ -5,10 +5,6 @@
 <h4> - 🌱 I’m currently developing mobile games in Unity </h4>
 
 <h4> - 💬 Ask me about C#, Unity 3D, OOP </h4>
-<img align="left" src="https://user-images.githubusercontent.com/109519598/213254121-115274ea-ed4d-49b6-a3a7-3b92f0abc023.gif" alt="@skurubas" height="50" width="150" />
-
-
-
 
 <h2 align="left">Contact me:</h2>
 <p align="left">
